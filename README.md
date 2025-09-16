@@ -1,5 +1,5 @@
 # fabry-perot-interferometer-sim
-This project models the behavior of light in a Fabry–Perot optical cavity, showing how multiple reflections between two parallel mirrors can create sharp resonance peaks. 
+The Fabry-Perot Interferometer models the behavior of light in a Fabry–Perot optical cavity, showing how multiple reflections between two parallel mirrors can create sharp resonance peaks.
 
 This experiment explores how changing the wavelength of light, cavity length, and reflectivity of the mirrors changes the resonance peaks. These results are shown on graphs relating the changing parameter to the 
 transmition of light. Many different parameters within the simulation can be changed, to explore the characteristics of the interferometer, such as the angle of incident light, refractive index of the cavity 
